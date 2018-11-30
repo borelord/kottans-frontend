@@ -1,0 +1,2 @@
+I have never given the command line any serious thought, but after taking this course I am starting to realize why and how it can be a powerful tool.
+As for the articles on HTTP protocols - I knew the basics and they significantly expanded my knowledge in this field :)
