@@ -1,0 +1,2 @@
+To be honest I am quite new to Git and GitHub, so a couple of topics were somewhat challenging for me (e.g. the last exercises on https://learngitbranching.js.org/)
+But I managed, so I guess that's what really matters :D
