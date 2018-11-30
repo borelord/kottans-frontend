@@ -9,4 +9,4 @@ In case you are interested you can find my progress below.
 
 See you around!
 
-(https://i.imgur.com/4dSv0jH.gif)
+![coding_cat](https://i.imgur.com/4dSv0jH.gif)
