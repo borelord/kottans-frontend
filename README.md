@@ -5,9 +5,10 @@ In case you are interested you can find my progress below.
 0. Git Basics
 1. Linux CLI and Networking
 2. VCS (hello gitty), GitHub and Collaboration
+3. Intro to HTML & CSS
 
 ## I am currently working on:
-3. Intro to HTML & CSS
+4. Responsive Web Design
 
 See you around!
 
